@@ -16,6 +16,6 @@
 
 
 ## 디버깅 🧑‍💻🪲  
-- [`MonoLingRD`: 왜 로스가 줄어들지 않을까?](https://github.com/eubinecto/learn/issues/7)
-- [`Transformer` 구현: 왜 inference를 했을 때 자꾸 패딩 토큰만 반복하는 것일까?](https://github.com/eubinecto/learn/issues/9)
 - [`LSTM` 구현: 왜 로스가 수렴하지 않을까?](https://github.com/eubinecto/learn/issues?q=is%3Aissue+is%3Aclosed)
+- [`MonoLingRD`: 왜 로스가 수렴하지 않을까?](https://github.com/eubinecto/learn/issues/7)
+- [`Transformer` 구현: 왜 inference를 했을 때 자꾸 패딩 토큰만 반복하는 것일까?](https://github.com/eubinecto/learn/issues/9)
