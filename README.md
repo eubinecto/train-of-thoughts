@@ -5,7 +5,7 @@
 ## Language models
 - [Language Model이란 정확히 무엇을 의미할까?](https://github.com/eubinecto/train-of-thoughts/issues/17)
 - [RNN의 기울기 소실 & 폭주문제의 근원이 무엇일까?](https://github.com/eubinecto/train-of-thoughts/issues/20)
--[perplexity란 무엇일까?](https://github.com/eubinecto/train-of-thoughts/issues/3) 
+- [perplexity란 무엇일까?](https://github.com/eubinecto/train-of-thoughts/issues/3) 
  
 ## 철학 🤔
 - [능력의 피라미드는 왜 필요할까?](https://github.com/eubinecto/train-of-thoughts/issues/40)
