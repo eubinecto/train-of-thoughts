@@ -1,4 +1,4 @@
-# Train of Thoughts 💭 🚂 
+# Train of Thoughts 🚂 
 
 > 칙칙폭폭
 
