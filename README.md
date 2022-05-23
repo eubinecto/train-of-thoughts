@@ -8,7 +8,7 @@
 - [perplexity란 무엇일까?](https://github.com/eubinecto/train-of-thoughts/issues/3) 
  
 ## 철학 🤔
-- [능력의 피라미드는 왜 필요할까?](https://github.com/eubinecto/train-of-thoughts/issues/40)
+- [공정한 능력의 피라미드는 왜 필요할까?](https://github.com/eubinecto/train-of-thoughts/issues/40)
 
 ## 어휘 🗣
 - [De facto란 무슨 뜻인가?](https://github.com/eubinecto/train-of-thoughts/issues/24)
